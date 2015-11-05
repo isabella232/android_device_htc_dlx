@@ -105,8 +105,6 @@ BOARD_SEPOLICY_UNION += \
     surfaceflinger.te \
     system_server.te \
     tee.te \
-    thermal-engine.te \
-    thermald.te \
     vold.te \
     wpa.te
 
